@@ -1,0 +1,10 @@
+## Final Report: Driving Scenario Analysis
+
+**Scene Description**  
+The driving scenario occurs in a sunny urban environment at a standard road intersection with clear visibility ahead. After passing the intersection, a vehicle appears as an obstacle, reducing passable lanes. Surrounding traffic is minimal, and visibility remains high. The intersection features a standard traffic light configuration with a pedestrian crossing.
+
+**Driver's Attention**  
+The driver’s visual attention is predominantly focused on the road ahead, with moderate engagement with system prompts. Object fixations show consistent attention on environmental elements (e.g., environment, dashboard, vehicles) but minimal focus on specific hazards like the obstacle. The driver occasionally checks the rearview mirror (e.g., at 222.723s), but this is not the primary focus. The driver’s attention is primarily directed toward the environment and dashboard, with insufficient focus on potential hazards like the obstacle ahead.
+
+**Human-Machine Interaction**  
+The autonomous driving mode transitions from manual to autonomous (mode 1) at approximately 112.403 seconds, as indicated by the system prompt. The driver grips the steering wheel with both hands and switches to autonomous mode after observing the system prompt. The vehicle maintains a smooth driving state throughout
